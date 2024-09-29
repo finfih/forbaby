@@ -15,6 +15,6 @@ st.write("Hi bb i didn't quite made this website myself obv but i did code and w
          " not so cool. But anyways there's no limit into typing this out really, it's funny bcs im using a website to"
          " type this out in a coding application. I actually wanted to code a game for you but i just started learning"
          " the basics and i can't code a game in like 4 days. SO hope u enjoyed reading thissss i wuv youuu :3. "
-         " By fin<3"
+         " By fin<3")
 
 
